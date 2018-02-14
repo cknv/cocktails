@@ -5,6 +5,7 @@ Blue Train
 - Gin
 - Maraschino
 - Lemon Juice
+- Cointreau
 
 Equal parts up in to a shaker with ice; shake, strain, serve.
 
