@@ -1,9 +1,9 @@
 Hanky Panky
 ===========
 
-1 part Gin
-1 part Sweet Vermouth
-Dashes of Fernet Branca
+- 1 part Gin
+- 1 part Sweet Vermouth
+- Dashes of Fernet Branca
 
 Stir and serve
 
